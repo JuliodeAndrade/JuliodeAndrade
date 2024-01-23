@@ -1,4 +1,4 @@
-### Hi there :blush:
+### Hi there !! Seja bem vindo; :blush:
 
 Sou Julio Leonardo de Andrade sou programador Front-end, atualmente estou aprendendo e criando projetos com:
 
