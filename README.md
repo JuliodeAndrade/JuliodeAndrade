@@ -9,11 +9,16 @@ Sou um Programador Front-end apaixonado por criar soluções web escaláveis. Co
 Acredito que bom código é aquele que é legível, eficiente e resolve problemas reais. Cada linha com propósito.
 
  O Que Eu Faço
-✅ Desenvolvimento de interfaces modernas e responsivas com React
-✅ Implementação de boas práticas de código e arquitetura
-✅ Otimização de performance e experiência do usuário
+ <br>
+✅ Desenvolvimento de interfaces modernas e responsivas com React;
+
+✅ Implementação de boas práticas de código e arquitetura;
+
+✅ Otimização de performance e experiência do usuário;
+
 ✅ Integração de frontend;
 
 💡 Filosofia
+<br>
 Programação não é apenas escrever código — é resolver problemas, aprender continuamente e criar valor. Cada projeto é uma oportunidade de crescimento.
   :rocket:  :rocket:   :rocket:
