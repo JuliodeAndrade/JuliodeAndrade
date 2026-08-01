@@ -1,6 +1,6 @@
-### Hi there !! Seja bem vindo; :blush:
+<h1>### Hi there !! Seja bem vindo; :blush:</h1>
 
-Sou Julio Leonardo de Andrade sou programador Front-end e futuro Full Stack, atualmente estou aprendendo e criando projetos com:
+<h3>Sou Julio Leonardo de Andrade sou programador Front-end e futuro Full Stack, atualmente estou aprendendo e criando projetos com:</h3>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
