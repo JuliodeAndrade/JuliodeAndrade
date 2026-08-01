@@ -21,4 +21,5 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 💡 Filosofia
 <br>
 Programação não é apenas escrever código — é resolver problemas, aprender continuamente e criar valor. Cada projeto é uma oportunidade de crescimento.
+
   :rocket:  :rocket:   :rocket:
